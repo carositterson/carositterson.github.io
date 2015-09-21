@@ -1,6 +1,7 @@
-body {text-align: center;}
+body {background-color:#000060;}
 
-body {background-color:#00006B;}
-
-h1,p {color:white;} {text-align: center;}
+h1,p {color:white;
+	 font-family:sans-serif;
+     text-align: center;
+ }
 
